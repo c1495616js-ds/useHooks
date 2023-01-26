@@ -28,3 +28,7 @@ const Example = () => {
 ## License
 
 MIT © [c1495616js](https://github.com/c1495616js)
+
+## Refs
+
+- https://github.com/streamich/react-use
