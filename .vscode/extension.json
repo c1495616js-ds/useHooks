@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "formulahendry.auto-rename-tag",
+    "naumovs.color-highlight",
+    "dsznajder.es7-react-js-snippets",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "ritwickdey.liveserver",
+    "bradlc.vscode-tailwindcss",
+    "stylelint.vscode-stylelint",
+    "christian-kohler.npm-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "mushan.vscode-paste-image"
+  ]
+}

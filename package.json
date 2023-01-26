@@ -1,0 +1,11 @@
+{
+  "name": "useHooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@c1495616js/eslint-config": "^0.2.1",
+    "@c1495616js/prettier-config": "^0.1.2",
+    "husky": "^8.0.3"
+  }
+}
