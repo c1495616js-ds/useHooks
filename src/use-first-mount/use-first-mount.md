@@ -5,7 +5,7 @@ React state hook that tracks if the component is first mounted.
 ## Usage
 
 ```tsx
-import { useFirstMount } from '@c1495616js/useHooks';
+import { useFirstMount } from '@c1495616js/usehooks';
 
 const Demo = () => {
   const isFirstMount = useFirstMount();

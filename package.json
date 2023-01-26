@@ -1,5 +1,5 @@
 {
-  "name": "@c1495616js/useHooks",
+  "name": "@c1495616js/usehooks",
   "version": "1.0.0",
   "author": {
     "name": "Jerry Wang",
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/c1495616js-ds/useHooks.git"
+    "url": "https://github.com/c1495616js-ds/usehooks.git"
   },
   "publishConfig": {
     "access": "public"

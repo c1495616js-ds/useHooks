@@ -1,4 +1,4 @@
-# @c1495616js/useHooks
+# @c1495616js/usehooks
 
 [![NPM](https://img.shields.io/npm/v/@c1495616js/myhooks.svg)](https://www.npmjs.com/package/@c1495616js/myhooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -9,7 +9,7 @@ https://c1495616js.github.io/jerry-fe-library
 ## Install
 
 ```bash
-npm install --save @c1495616js/useHooks
+npm install --save @c1495616js/usehooks
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install --save @c1495616js/useHooks
 ```tsx
 import * as React from 'react';
 
-import { useExample } from '@c1495616js/useHooks';
+import { useExample } from '@c1495616js/usehooks';
 
 const Example = () => {
   const example = useExample();
